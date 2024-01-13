@@ -8,3 +8,4 @@ s3_prefix = "sam-app"
 region = "us-west-1"
 capabilities = "CAPABILITY_IAM"
 image_repositories = []
+resolve_s3 = true
